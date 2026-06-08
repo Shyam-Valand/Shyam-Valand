@@ -1,12 +1,12 @@
 # Hi 👋, I'm Shyam Valand
 
-## Aspiring .NET Developer | MCA Graduate
+## Aspiring Junior Full-Stack .NET Developer | MCA Graduate
 
-I am an aspiring full-stack developer focusing on building practical applications using the Microsoft .NET ecosystem.
+I am a developer focused on building practical applications using the Microsoft .NET ecosystem.
 
-I have experience working with REST APIs, backend development, authentication, and responsive web applications.
+Currently improving my skills by building real-world projects with C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, and React.
 
-Currently improving my skills by building real-world projects with C#, ASP.NET Core, SQL Server, and React.
+My goal is to become a full-stack .NET developer by focusing on clean code, backend architecture, databases, and modern development practices.
 
 ---
 
@@ -17,7 +17,9 @@ Currently improving my skills by building real-world projects with C#, ASP.NET C
 - ASP.NET Core Web API
 - Entity Framework Core
 - SQL Server
-- Backend Development Principles
+- REST API Development
+- Backend Architecture
+- React & TypeScript
 
 ---
 
@@ -25,14 +27,14 @@ Currently improving my skills by building real-world projects with C#, ASP.NET C
 
 ### Backend
 - C#
-- ASP.NET Core
-- Node.js
-- Express.js
+- ASP.NET Core Web API
+- Entity Framework Core
 - REST API Development
 - JWT Authentication
 
 ### Frontend
 - React.js
+- TypeScript
 - JavaScript
 - HTML5
 - CSS3
@@ -42,55 +44,79 @@ Currently improving my skills by building real-world projects with C#, ASP.NET C
 - SQL Server
 - MongoDB
 
-### Developer Tools
+### Tools & Practices
 - Git
 - GitHub
 - Visual Studio
 - VS Code
 - Postman
+- Docker (Learning)
+- Azure (Learning)
 
 ---
 
-## 📌 Projects
+# 📌 Portfolio Roadmap
 
-### Appointment Booking System (Building)
+## Hotel Management System Modernization (Planned)
 
-A full-stack booking management application focused on real-world business workflows.
+Modernizing an existing academic desktop application into a better structured .NET project.
+
+Current:
+- C# Windows Forms
+- SQL Server
+- CRUD Operations
+
+Improvement Focus:
+- Better project structure
+- Entity Framework Core
+- Service Layer
+- Validation
+- Documentation
+
+---
+
+## Expense & Budget Manager SaaS (Upcoming)
+
+A full-stack finance management application focused on real-world SaaS concepts.
 
 Planned Features:
+
 - User Authentication
-- Role-Based Access
+- Expense Management
+- Category Management
+- Budget Tracking
+- Reports Dashboard
+- Filtering & Search
+
+Tech Stack:
+
+C# | ASP.NET Core Web API | EF Core | SQL Server | React
+
+---
+
+## Appointment Booking Platform (Upcoming)
+
+A business booking system focused on scheduling workflows.
+
+Planned Features:
+
+- User Roles
 - Customer Management
 - Service Management
-- Availability & Time Slot Management
+- Availability Management
 - Appointment Scheduling
-- Booking Status Tracking
+- Booking Rules
 
 Tech Stack:
-C# | ASP.NET Core | Entity Framework Core | SQL Server | React
 
----
-
-### Expense & Budget Manager (Next)
-
-A full-stack personal finance management application for tracking expenses and budgets.
-
-Planned Features:
-- User Authentication
-- Expense CRUD Operations
-- Category Management
-- Monthly Budget Tracking
-- Reports Dashboard
-- Search and Filtering
-
-Tech Stack:
-C# | ASP.NET Core | Entity Framework Core | SQL Server | React
+C# | ASP.NET Core Web API | EF Core | SQL Server | React
 
 ---
 
 ## 📚 Currently Learning
 
-- Writing clean and maintainable code
+- Writing clean and maintainable C# code
+- Object-Oriented Programming
 - Database design
 - API architecture
 - Software development practices
@@ -98,8 +124,10 @@ C# | ASP.NET Core | Entity Framework Core | SQL Server | React
 ---
 
 ## 📫 Connect
+
 LinkedIn:  
 www.linkedin.com/in/shyamvaland213
 
 ---
+
 ### Building consistently. Improving one commit at a time 🚀
