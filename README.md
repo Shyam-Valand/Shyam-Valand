@@ -2,37 +2,43 @@
 
 ## Aspiring Full-Stack .NET Developer | MCA Graduate
 
-I am a developer focused on building practical applications using the Microsoft .NET ecosystem.
+I am a developer focused on building practical full-stack applications using the Microsoft .NET ecosystem.
 
-Currently improving my skills by building real-world projects with C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, and React.
+Currently building real-world projects with **C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, and React**.
 
-My goal is to become a full-stack .NET developer by focusing on clean code, backend architecture, databases, and modern development practices.
+My goal is to become a Full-Stack .NET Developer by focusing on clean code, scalable backend architecture, databases, and enterprise development practices.
 
 ---
 
 ## 🎯 Current Focus
 
-- C# Programming
-- Object-Oriented Programming
-- ASP.NET Core Web API
+- ASP.NET Core Web API Development
+- REST API Design
 - Entity Framework Core
-- SQL Server
-- REST API Development
-- Backend Architecture
-- React & TypeScript
+- SQL Server Database Design
+- Service Layer Architecture
+- Repository Pattern
+- Dependency Injection
+- Async Programming
+- Authentication & Authorization
+- React + TypeScript Development
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend
+
 - C#
+- .NET 8
 - ASP.NET Core Web API
 - Entity Framework Core
+- LINQ
 - REST API Development
 - JWT Authentication
 
 ### Frontend
+
 - React.js
 - TypeScript
 - JavaScript
@@ -41,95 +47,154 @@ My goal is to become a full-stack .NET developer by focusing on clean code, back
 - Tailwind CSS
 
 ### Database
+
 - SQL Server
 - MongoDB
 
 ### Tools & Practices
-- Git
-- GitHub
+
+- Git & GitHub
 - Visual Studio
 - VS Code
 - Postman
+- Swagger
+- Dependency Injection
+- Repository Pattern
+- Service Layer
+- Clean Architecture (Learning)
 - Docker (Learning)
 - Azure (Learning)
+- CI/CD (Learning)
+
+---
+
+# 🚀 Current Project
+
+## Appointment Booking Platform
+
+A full-stack appointment management system focused on real-world business workflows and clean backend architecture.
+
+### Completed
+
+- Console Application Version ✅
+- SQL Server Database Design ✅
+- Entity Framework Core Integration ✅
+- ASP.NET Core Web API Development ✅
+- CRUD Operations ✅
+- DTO Pattern ✅
+- Service Layer Architecture ✅
+- Repository Pattern ✅
+- Dependency Injection ✅
+- Async/Await Implementation ✅
+- Global Exception Handling ✅
+- Swagger API Testing ✅
+
+### In Progress
+
+- JWT Authentication
+- Role-Based Authorization
+- React Frontend
+- Testing
+- Deployment
+
+### Tech Stack
+
+```text
+ASP.NET Core Web API
+Entity Framework Core
+SQL Server
+React
+TypeScript
+JWT Authentication
+Clean Architecture Practices
+```
+
+---
+
+# 📌 Upcoming Portfolio Projects
+
+## Enterprise Banking Ledger System ⭐
+
+Enterprise-focused financial application inspired by real banking systems.
+
+Planned Features:
+
+- User Authentication
+- Role-Based Access Control
+- Account Management
+- Transactions
+- Double Entry Ledger
+- Audit Logging
+- Fraud Rule Checks
+- Reporting Dashboard
+
+Tech Stack:
+
+```text
+ASP.NET Core Web API
+EF Core
+SQL Server
+React
+TypeScript
+Docker
+Azure
+```
+
+---
+
+## Hotel Management System Modernization
+
+Modernizing my existing academic desktop application into a full-stack web application.
+
+Migration:
+
+```text
+C# Windows Forms
+ADO.NET
+SQL Server
+
+        ↓
+
+ASP.NET Core Web API
+Entity Framework Core
+React
+SQL Server
+```
+
+Focus:
+
+- Legacy Application Modernization
+- REST API Development
+- Database Redesign
+- Modern Architecture
 
 ---
 
 ## 🏆 Certifications
 
-- Foundational C# with Microsoft  
-  freeCodeCamp & Microsoft (2026)
+### Foundational C# with Microsoft
+
+freeCodeCamp & Microsoft (2026)
 
 Skills Covered:
-C# • Object-Oriented Programming • .NET Fundamentals • Debugging
+
+```text
+C#
+Object-Oriented Programming
+.NET Fundamentals
+Debugging
+```
 
 ---
 
-# 📌 Portfolio Roadmap
+## 📚 Currently Improving
 
-## Hotel Management System Modernization (Planned)
-
-Modernizing an existing academic desktop application into a better structured .NET project.
-
-Current:
-- C# Windows Forms
-- SQL Server
-- CRUD Operations
-
-Improvement Focus:
-- Better project structure
-- Entity Framework Core
-- Service Layer
-- Validation
-- Documentation
-
----
-
-## Expense & Budget Manager SaaS (Upcoming)
-
-A full-stack finance management application focused on real-world SaaS concepts.
-
-Planned Features:
-
-- User Authentication
-- Expense Management
-- Category Management
-- Budget Tracking
-- Reports Dashboard
-- Filtering & Search
-
-Tech Stack:
-
-C# | ASP.NET Core Web API | EF Core | SQL Server | React
-
----
-
-## Appointment Booking Platform (Upcoming)
-
-A business booking system focused on scheduling workflows.
-
-Planned Features:
-
-- User Roles
-- Customer Management
-- Service Management
-- Availability Management
-- Appointment Scheduling
-- Booking Rules
-
-Tech Stack:
-
-C# | ASP.NET Core Web API | EF Core | SQL Server | React
-
----
-
-## 📚 Currently Learning
-
-- Writing clean and maintainable C# code
-- Object-Oriented Programming
-- Database design
+- Writing maintainable backend code
 - API architecture
-- Software development practices
+- System design fundamentals
+- Authentication & security
+- Testing practices
+- Full-stack development workflow
 
 ---
 
@@ -140,4 +205,8 @@ www.linkedin.com/in/shyamvaland213
 
 ---
 
-### Building consistently. Improving one commit at a time 🚀
+```text
+Learn → Build → Refactor → Improve 🚀
+```
+
+Building consistently. Improving one commit at a time 🚀
