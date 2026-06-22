@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shyam Valand
 
-## Aspiring Junior Full-Stack .NET Developer | MCA Graduate
+## Aspiring Full-Stack .NET Developer | MCA Graduate
 
 I am a developer focused on building practical applications using the Microsoft .NET ecosystem.
 
@@ -52,6 +52,16 @@ My goal is to become a full-stack .NET developer by focusing on clean code, back
 - Postman
 - Docker (Learning)
 - Azure (Learning)
+
+---
+
+## 🏆 Certifications
+
+- Foundational C# with Microsoft  
+  freeCodeCamp & Microsoft (2026)
+
+Skills Covered:
+C# • Object-Oriented Programming • .NET Fundamentals • Debugging
 
 ---
 
