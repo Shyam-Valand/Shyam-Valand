@@ -1,66 +1,75 @@
 # Hi 👋, I'm Shyam Valand
 
-## Aspiring Full-Stack .NET Developer | MCA Graduate
+## Aspiring Full-Stack .NET Developer | C# | ASP.NET Core Web API | SQL Server | React
 
-I am a developer focused on building practical full-stack applications using the Microsoft .NET ecosystem.
+I am an aspiring Full-Stack .NET Developer passionate about building scalable backend systems and modern web applications using the Microsoft technology stack.
 
-Currently building real-world projects with **C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, and React**.
+Currently building enterprise-style applications with **C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication, and React**, while following professional software engineering practices and modern development workflows.
 
-My goal is to become a Full-Stack .NET Developer by focusing on clean code, scalable backend architecture, databases, and enterprise development practices.
+My goal is to become a highly skilled Full-Stack .NET Developer by mastering backend architecture, secure API development, cloud technologies, and modern frontend development.
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-- ASP.NET Core Web API Development
+- Enterprise ASP.NET Core Web API Development
 - REST API Design
 - Entity Framework Core
 - SQL Server Database Design
-- Service Layer Architecture
 - Repository Pattern
+- Service Layer Architecture
 - Dependency Injection
 - Async Programming
-- Authentication & Authorization
-- React + TypeScript Development
+- JWT Authentication & Authorization
+- Enterprise Business Rule Implementation
+- React + TypeScript
+- Docker & Azure (Upcoming)
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Backend
+## Backend
 
 - C#
-- .NET 8
+- .NET
 - ASP.NET Core Web API
 - Entity Framework Core
 - LINQ
 - REST API Development
 - JWT Authentication
+- Role-Based Authorization
 
-### Frontend
+## Frontend
 
-- React.js
+- React
 - TypeScript
 - JavaScript
 - HTML5
 - CSS3
 - Tailwind CSS
 
-### Database
+## Database
 
 - SQL Server
 - MongoDB
 
-### Tools & Practices
+## Tools & Practices
 
-- Git & GitHub
 - Visual Studio
 - VS Code
+- Git & GitHub
+- GitHub Issues
+- Feature Branch Workflow
+- Pull Requests
 - Postman
 - Swagger
 - Dependency Injection
 - Repository Pattern
 - Service Layer
+- DTO Pattern
+- Async Programming
+- Global Exception Handling
 - Clean Architecture (Learning)
 - Docker (Learning)
 - Azure (Learning)
@@ -68,45 +77,84 @@ My goal is to become a Full-Stack .NET Developer by focusing on clean code, scal
 
 ---
 
-# 🚀 Current Project
+# 🚀 Featured Project
 
-## Appointment Booking Platform
+## Healthcare Appointment Management Platform
 
-A full-stack appointment management system focused on real-world business workflows and clean backend architecture.
+An enterprise-style healthcare appointment management platform built using ASP.NET Core Web API, following layered architecture, secure authentication, role-based authorization, and real-world business rules.
 
-### Completed
+### Core Backend
 
-- Console Application Version ✅
-- SQL Server Database Design ✅
-- Entity Framework Core Integration ✅
-- ASP.NET Core Web API Development ✅
-- CRUD Operations ✅
-- DTO Pattern ✅
-- Service Layer Architecture ✅
-- Repository Pattern ✅
-- Dependency Injection ✅
-- Async/Await Implementation ✅
-- Global Exception Handling ✅
-- Swagger API Testing ✅
+- C#
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- REST API Development
 
-### In Progress
+### Architecture
+
+- DTO Pattern
+- Repository Pattern
+- Service Layer
+- Dependency Injection
+- Async Programming
+- Global Exception Handling
+- API Response Wrapper
+
+### Security
 
 - JWT Authentication
+- Password Hashing
+- Claims-Based Authorization
 - Role-Based Authorization
-- React Frontend
-- Testing
-- Deployment
+- Secure API Endpoints
 
-### Tech Stack
+### Enterprise Features
+
+- Appointment Management
+- Appointment Business Rules
+- Appointment Overlap Validation
+- Patient Appointment Ownership
+- User-Customer Relationship
+- Automatic Customer Profile Creation
+- Automatic Customer Linking
+- Secure Self-Booking
+- Admin Authorization
+- Doctor Authorization
+- Doctor Assignment Workflow
+- Doctor Availability Management
+- Doctor Availability Validation
+
+### Professional Workflow
+
+- GitHub Issues
+- Feature Branch Development
+- Pull Requests
+- Code Reviews
+
+### Currently Building
+
+- Appointment Workflow
+- Search & Filtering
+- Reviews & Ratings
+- Dashboard APIs
+- React Frontend
+- Unit Testing
+- Docker
+- Azure Deployment
+
+### Technology Stack
 
 ```text
 ASP.NET Core Web API
 Entity Framework Core
 SQL Server
+JWT Authentication
 React
 TypeScript
-JWT Authentication
-Clean Architecture Practices
+Repository Pattern
+Service Layer
+Clean Architecture
 ```
 
 ---
@@ -115,27 +163,26 @@ Clean Architecture Practices
 
 ## Enterprise Banking Ledger System ⭐
 
-Enterprise-focused financial application inspired by real banking systems.
+An enterprise-focused financial system inspired by real-world banking applications, designed to demonstrate secure transaction processing, layered architecture, and scalable backend development.
 
-Planned Features:
+### Planned Features
 
 - User Authentication
-- Role-Based Access Control
+- Role-Based Authorization
 - Account Management
+- Double-Entry Ledger
 - Transactions
-- Double Entry Ledger
 - Audit Logging
-- Fraud Rule Checks
 - Reporting Dashboard
 
-Tech Stack:
+### Technology Stack
 
 ```text
 ASP.NET Core Web API
-EF Core
+Entity Framework Core
 SQL Server
 React
-TypeScript
+JWT Authentication
 Docker
 Azure
 ```
@@ -144,14 +191,12 @@ Azure
 
 ## Hotel Management System Modernization
 
-Modernizing my existing academic desktop application into a full-stack web application.
+Modernizing my academic Windows Forms application into a production-style full-stack web application.
 
-Migration:
+### Migration
 
 ```text
-C# Windows Forms
-ADO.NET
-SQL Server
+Windows Forms + SQL Server
 
         ↓
 
@@ -161,22 +206,26 @@ React
 SQL Server
 ```
 
-Focus:
+### Focus
 
 - Legacy Application Modernization
 - REST API Development
-- Database Redesign
-- Modern Architecture
+- Modern Software Architecture
+- Enterprise Development Practices
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
-### Foundational C# with Microsoft
+## Foundational C# with Microsoft
 
-freeCodeCamp & Microsoft (2026)
+**freeCodeCamp & Microsoft**  
+Issued: Jun 2026
 
-Skills Covered:
+**Verification:**  
+[View Certificate](https://freecodecamp.org/certification/shyam_valand/foundational-c-sharp-with-microsoft)
+
+**Skills Covered**
 
 ```text
 C#
@@ -187,26 +236,45 @@ Debugging
 
 ---
 
-## 📚 Currently Improving
+## C# (Basic)
 
-- Writing maintainable backend code
-- API architecture
-- System design fundamentals
-- Authentication & security
-- Testing practices
-- Full-stack development workflow
+**HackerRank**  
+Issued: Jun 2026
+
+**Verification:**  
+[View Certificate](https://www.hackerrank.com/certificates/efa2db6f0d6d)
+
+**Skills Covered**
+
+```text
+C#
+Problem Solving
+Control Flow
+Functions
+Object-Oriented Programming
+```
 
 ---
 
-## 📫 Connect
+# 📚 Currently Learning
 
-LinkedIn:  
-www.linkedin.com/in/shyamvaland213
+- Appointment Workflow
+- React + TypeScript
+- Unit Testing
+- Docker
+- Azure Deployment
+
+---
+
+# 📫 Connect
+
+**LinkedIn**  
+https://www.linkedin.com/in/shyamvaland213
 
 ---
 
 ```text
-Learn → Build → Refactor → Improve 🚀
+Learn → Build → Test → Refactor → Improve → Deploy 🚀
 ```
 
-Building consistently. Improving one commit at a time 🚀
+Building enterprise applications one feature and one commit at a time. 🚀
