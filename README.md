@@ -4,7 +4,7 @@
 
 I am an aspiring Full-Stack .NET Developer passionate about building scalable backend systems and modern web applications using the Microsoft technology stack.
 
-Currently building enterprise-style applications with **C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication, and React**, while following professional software engineering practices and modern development workflows.
+Recently completed an enterprise-style ASP.NET Core Web API learning project featuring JWT Authentication, Role-Based Authorization, API Versioning, Health Checks, Pagination, Search & Filtering, Dashboard APIs, and modern backend architecture. Currently focusing on Clean Architecture and full-stack development with React.
 
 My goal is to become a highly skilled Full-Stack .NET Developer by mastering backend architecture, secure API development, cloud technologies, and modern frontend development.
 
@@ -12,18 +12,18 @@ My goal is to become a highly skilled Full-Stack .NET Developer by mastering bac
 
 # 🎯 Current Focus
 
+- Clean Architecture
 - Enterprise ASP.NET Core Web API Development
 - REST API Design
 - Entity Framework Core
 - SQL Server Database Design
-- Repository Pattern
-- Service Layer Architecture
-- Dependency Injection
-- Async Programming
 - JWT Authentication & Authorization
-- Enterprise Business Rule Implementation
+- API Versioning
+- Health Checks
 - React + TypeScript
-- Docker & Azure (Upcoming)
+- Docker
+- Azure
+- CI/CD
 
 ---
 
@@ -70,10 +70,10 @@ My goal is to become a highly skilled Full-Stack .NET Developer by mastering bac
 - DTO Pattern
 - Async Programming
 - Global Exception Handling
-- Clean Architecture (Learning)
-- Docker (Learning)
-- Azure (Learning)
-- CI/CD (Learning)
+- Clean Architecture
+- Docker (In Progress)
+- Azure (Planned)
+- CI/CD (Planned)
 
 ---
 
@@ -81,7 +81,7 @@ My goal is to become a highly skilled Full-Stack .NET Developer by mastering bac
 
 ## Healthcare Appointment Management Platform
 
-An enterprise-style healthcare appointment management platform built using ASP.NET Core Web API, following layered architecture, secure authentication, role-based authorization, and real-world business rules.
+An enterprise-style healthcare appointment management platform built using ASP.NET Core Web API, following modern backend architecture, secure authentication, role-based authorization, and real-world business rules.
 
 ### Core Backend
 
@@ -124,6 +124,13 @@ An enterprise-style healthcare appointment management platform built using ASP.N
 - Doctor Assignment Workflow
 - Doctor Availability Management
 - Doctor Availability Validation
+- Appointment Workflow
+- Search & Filtering
+- Doctor Reviews & Ratings
+- Dashboard APIs
+- Pagination & Sorting
+- API Versioning
+- Health Checks
 
 ### Professional Workflow
 
@@ -132,20 +139,29 @@ An enterprise-style healthcare appointment management platform built using ASP.N
 - Pull Requests
 - Code Reviews
 
-### Currently Building
+### Completed Features
 
 - Appointment Workflow
 - Search & Filtering
 - Reviews & Ratings
 - Dashboard APIs
+- Pagination & Sorting
+- API Versioning
+- Health Checks
+
+### Next Phase
+
 - React Frontend
 - Unit Testing
 - Docker
-- Azure Deployment
+- Azure
+- CI/CD
 
 ### Technology Stack
 
 ```text
+C#
+.NET 8
 ASP.NET Core Web API
 Entity Framework Core
 SQL Server
@@ -154,12 +170,13 @@ React
 TypeScript
 Repository Pattern
 Service Layer
-Clean Architecture
+API Versioning
+Health Checks
 ```
 
 ---
 
-# 📌 Upcoming Portfolio Projects
+# 📌 Planned Portfolio Projects
 
 ## Enterprise Banking Ledger System ⭐
 
@@ -258,23 +275,25 @@ Object-Oriented Programming
 
 # 📚 Currently Learning
 
-- Appointment Workflow
-- React + TypeScript
+- Clean Architecture
 - Unit Testing
+- React + TypeScript
 - Docker
-- Azure Deployment
+- Azure
+- CI/CD
 
 ---
 
 # 📫 Connect
 
-**LinkedIn**  
-https://www.linkedin.com/in/shyamvaland213
+**LinkedIn**
+
+[linkedin.com/in/shyamvaland213](https://www.linkedin.com/in/shyamvaland213)
 
 ---
 
 ```text
-Learn → Build → Test → Refactor → Improve → Deploy 🚀
+Learn → Build → Test → Review → Refactor → Deploy 🚀
 ```
 
 Building enterprise applications one feature and one commit at a time. 🚀
